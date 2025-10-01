@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MAD_23012531056_PR_4</string>
+    <string name="str0">MAD_Alarm_Practical</string>
+    <string name="str1">Create Alarm Time</string>
+    <string name="str2">BY prsessing buttons, Alarm can be created and cancelled.</string>
+    <string name="str3">Check Current time by looking below real digital clock.</string>
+    <string name="create">Create Alarm</string>
+    <string name="setA">Set Alarm Time:</string>
+</resources>

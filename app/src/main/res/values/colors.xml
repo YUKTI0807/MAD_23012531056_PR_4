@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <!-- Primary Colors -->
+        <color name="dark_green">#006400</color>       <!-- Dark Green -->
+        <color name="purple_700">#3700B3</color>       <!-- Purple Variant -->
+        <color name="black">#000000</color>            <!-- Black -->
+
+        <!-- Secondary Colors -->
+        <color name="light_green">#90EE90</color>      <!-- Light Green -->
+        <color name="white">#FFFFFF</color>            <!-- White -->
+    </resources>
